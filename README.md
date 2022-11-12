@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying mathematics and deep learning.
 - 💞️ I’m looking to collaborate on any useful project for humanity, which involves math and machine learning.
 
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanvoyt&show_icons=true&theme=default)
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanvoyt&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 romanvoyt/romanvoyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
