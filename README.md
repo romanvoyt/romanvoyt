@@ -8,9 +8,9 @@
 
 
 <a href="https://github.com/romanvoyt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romanvoyt&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=romanvoyt&show_icons=true&theme=default" />
 </a>
-<a href="https://github.com/romanvoyt/convoychat">
+<a href="https://github.com/romanvoyt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romanvoyt&repo=convoychat" />
 </a>
 
