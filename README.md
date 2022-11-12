@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any useful project for humanity, which involves math and machine learning.
 
 ![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanvoyt&show_icons=true&theme=default) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanvoyt&langs_count=5)](https://github.com/romanvoyt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanvoyt&langs_count=5)]
 
 <!---
 romanvoyt/romanvoyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
