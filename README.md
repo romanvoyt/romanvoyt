@@ -6,7 +6,7 @@
 <a href="https://github.com/romanvoyt/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=romanvoyt&show_icons=true&theme=default" />
 </a>
-<a href="https://github.com/romanvoyt/mnist_classifier">
+<a href="https://github.com/romanvoyt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanvoyt&layout=compact" />
 </a>
 
