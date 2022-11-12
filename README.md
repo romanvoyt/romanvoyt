@@ -2,8 +2,6 @@
 - 👀 I’m interested in machine learning, deep learning, mathematics and quantitative trading. 
 - 🌱 I’m currently studying mathematics and deep learning.
 - 💞️ I’m looking to collaborate on any useful project for humanity, which involves math and machine learning.
-
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanvoyt&show_icons=true&theme=default) 
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanvoyt&layout=compact)](https://github.com/romanvoyt)
 
 
@@ -11,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=romanvoyt&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/romanvoyt/mnist_classifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romanvoyt&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanvoyt&layout=compact" />
 </a>
 
 
