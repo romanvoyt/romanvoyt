@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanvoyt&show_icons=true&theme=default)
 
 <!---
 romanvoyt/romanvoyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
