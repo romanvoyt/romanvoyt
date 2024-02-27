@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Roman
-- 👀 I’m interested in machine learning, deep learning, mathematics and quantitative trading. 
-- 🌱 I’m currently studying mathematics and deep learning.
-- 💞️ I’m looking to collaborate on any useful project for humanity, which involves math and machine learning.
+- ML and stuff
 
 <a href="https://github.com/romanvoyt/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=romanvoyt&show_icons=true&theme=default" />
